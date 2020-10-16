@@ -1,2 +1,3 @@
-# otternet_ansible_collection
-Ansible collection for all otternet roles etc.
+# Ansible Collection - otternet.otternet_ansible_collection
+
+Documentation for the collection.
